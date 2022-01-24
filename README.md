@@ -2,6 +2,6 @@
 
 Created as an application project for Data Vis S2022
 
-Inner ring, Hours (0-12)
-Middle ring, Mins (0-60)
-Outer ring, Secs (0-60)
+Inner ring, Hours (0-11) (0 is 12AM or 12PM)
+Middle ring, Mins (0-59)
+Outer ring, Secs (0-59)
