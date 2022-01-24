@@ -65,7 +65,7 @@ function draw() {
   
   noStroke();
   fill(255, 204, 0); 
-  circle(0, 0, 40);
+  circle(0, 0, 60);
 
 
   
